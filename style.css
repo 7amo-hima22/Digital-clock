@@ -1,0 +1,21 @@
+body{
+    background-color: #332e49;
+    color: rgb(0, 0, 0);
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.clock {
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px;
+    border: 3px solid rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    background-color: rgba(209, 85, 85, 0.1);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+    transition: all 0.3s ease;
+    color: #000000;
+}
