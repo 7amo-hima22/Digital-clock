@@ -15,5 +15,4 @@ A simple digital clock application built with HTML, CSS, and JavaScript.
 
 📸 Screenshots
 
-![Digital Clock Screenshot]
-<img src="/images/Screenshot 2025-07-11 233628.png" alt="example" width="300">
+![Digital Clock Screenshot](images/Screenshot%202025-07-11%20233628.png)
