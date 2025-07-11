@@ -15,4 +15,4 @@ A simple digital clock application built with HTML, CSS, and JavaScript.
 
 📸 Screenshots
 
-![Digital Clock Screenshot](images/Screenshot%202025-07-11%20233628.png)
+![Digital Clock Screenshot](https://github.com/7amo-hima22/Digital-clock/blob/main/Screenshot%202025-07-11%20233628.png)
